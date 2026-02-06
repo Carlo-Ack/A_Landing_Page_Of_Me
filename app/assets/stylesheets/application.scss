@@ -1,0 +1,8 @@
+@import "config/colors";
+
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  background-image: linear-gradient(to right, #121113, #302e30);
+  color: $purple-on-black;
+}
